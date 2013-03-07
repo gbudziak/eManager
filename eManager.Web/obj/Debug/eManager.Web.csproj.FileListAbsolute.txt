@@ -1,0 +1,126 @@
+C:\inetpub\CWBH\eManager\eManager.Web\bin\eManager.Web.dll
+C:\inetpub\CWBH\eManager\eManager.Web\bin\eManager.Web.pdb
+C:\inetpub\CWBH\eManager\eManager.Web\bin\Antlr3.Runtime.dll
+C:\inetpub\CWBH\eManager\eManager.Web\bin\DotNetOpenAuth.AspNet.dll
+C:\inetpub\CWBH\eManager\eManager.Web\bin\DotNetOpenAuth.Core.dll
+C:\inetpub\CWBH\eManager\eManager.Web\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\inetpub\CWBH\eManager\eManager.Web\bin\DotNetOpenAuth.OAuth.dll
+C:\inetpub\CWBH\eManager\eManager.Web\bin\DotNetOpenAuth.OpenId.dll
+C:\inetpub\CWBH\eManager\eManager.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\inetpub\CWBH\eManager\eManager.Web\bin\EntityFramework.dll
+C:\inetpub\CWBH\eManager\eManager.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\inetpub\CWBH\eManager\eManager.Web\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\inetpub\CWBH\eManager\eManager.Web\bin\Newtonsoft.Json.dll
+C:\inetpub\CWBH\eManager\eManager.Web\bin\System.Net.Http.dll
+C:\inetpub\CWBH\eManager\eManager.Web\bin\System.Net.Http.Formatting.dll
+C:\inetpub\CWBH\eManager\eManager.Web\bin\System.Net.Http.WebRequest.dll
+C:\inetpub\CWBH\eManager\eManager.Web\bin\System.Web.Helpers.dll
+C:\inetpub\CWBH\eManager\eManager.Web\bin\System.Web.Http.dll
+C:\inetpub\CWBH\eManager\eManager.Web\bin\System.Web.Http.WebHost.dll
+C:\inetpub\CWBH\eManager\eManager.Web\bin\System.Web.Mvc.dll
+C:\inetpub\CWBH\eManager\eManager.Web\bin\System.Web.Optimization.dll
+C:\inetpub\CWBH\eManager\eManager.Web\bin\System.Web.Razor.dll
+C:\inetpub\CWBH\eManager\eManager.Web\bin\System.Web.WebPages.Deployment.dll
+C:\inetpub\CWBH\eManager\eManager.Web\bin\System.Web.WebPages.dll
+C:\inetpub\CWBH\eManager\eManager.Web\bin\System.Web.WebPages.Razor.dll
+C:\inetpub\CWBH\eManager\eManager.Web\bin\WebGrease.dll
+C:\inetpub\CWBH\eManager\eManager.Web\bin\WebMatrix.Data.dll
+C:\inetpub\CWBH\eManager\eManager.Web\bin\WebMatrix.WebData.dll
+C:\inetpub\CWBH\eManager\eManager.Web\bin\Org.Mentalis.Security.Cryptography.dll
+C:\inetpub\CWBH\eManager\eManager.Web\bin\Mono.Math.dll
+C:\inetpub\CWBH\eManager\eManager.Web\bin\DotNetOpenAuth.AspNet.xml
+C:\inetpub\CWBH\eManager\eManager.Web\bin\DotNetOpenAuth.Core.xml
+C:\inetpub\CWBH\eManager\eManager.Web\bin\DotNetOpenAuth.OAuth.xml
+C:\inetpub\CWBH\eManager\eManager.Web\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\inetpub\CWBH\eManager\eManager.Web\bin\DotNetOpenAuth.OpenId.xml
+C:\inetpub\CWBH\eManager\eManager.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\inetpub\CWBH\eManager\eManager.Web\bin\Newtonsoft.Json.xml
+C:\inetpub\CWBH\eManager\eManager.Web\bin\System.Web.Razor.xml
+C:\inetpub\CWBH\eManager\eManager.Web\bin\EntityFramework.xml
+C:\inetpub\CWBH\eManager\eManager.Web\bin\System.Net.Http.xml
+C:\inetpub\CWBH\eManager\eManager.Web\bin\System.Net.Http.Formatting.xml
+C:\inetpub\CWBH\eManager\eManager.Web\bin\System.Net.Http.WebRequest.xml
+C:\inetpub\CWBH\eManager\eManager.Web\bin\System.Web.Helpers.xml
+C:\inetpub\CWBH\eManager\eManager.Web\bin\System.Web.Http.xml
+C:\inetpub\CWBH\eManager\eManager.Web\bin\System.Web.Http.WebHost.xml
+C:\inetpub\CWBH\eManager\eManager.Web\bin\System.Web.Mvc.xml
+C:\inetpub\CWBH\eManager\eManager.Web\bin\System.Web.WebPages.xml
+C:\inetpub\CWBH\eManager\eManager.Web\bin\System.Web.WebPages.Deployment.xml
+C:\inetpub\CWBH\eManager\eManager.Web\bin\System.Web.WebPages.Razor.xml
+C:\inetpub\CWBH\eManager\eManager.Web\bin\WebMatrix.Data.xml
+C:\inetpub\CWBH\eManager\eManager.Web\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\inetpub\CWBH\eManager\eManager.Web\bin\WebMatrix.WebData.xml
+C:\inetpub\CWBH\eManager\eManager.Web\bin\Org.Mentalis.Security.Cryptography.xml
+C:\inetpub\CWBH\eManager\eManager.Web\bin\Mono.Math.xml
+C:\inetpub\CWBH\eManager\eManager.Web\obj\Debug\eManager.Web.csprojResolveAssemblyReference.cache
+C:\inetpub\CWBH\eManager\eManager.Web\obj\Debug\eManager.Web.dll
+C:\inetpub\CWBH\eManager\eManager.Web\obj\Debug\eManager.Web.pdb
+C:\inetpub\CWBH\eManager\eManager.Web\bin\eManager.Domain.dll
+C:\inetpub\CWBH\eManager\eManager.Web\bin\eManager.Domain.pdb
+C:\inetpub\CWBH\eManager\eManager.Web\bin\StructureMap.dll
+C:\inetpub\CWBH\eManager\eManager.Web\bin\WebActivator.dll
+C:\inetpub\CWBH\eManager\eManager.Web\bin\StructureMap.pdb
+C:\inetpub\CWBH\eManager\eManager.Web\bin\StructureMap.xml
+C:\Users\ryan.allen\Documents\Visual Studio 2012\Projects\eManager\eManager.Web\bin\eManager.Web.dll
+C:\Users\ryan.allen\Documents\Visual Studio 2012\Projects\eManager\eManager.Web\bin\eManager.Web.pdb
+C:\Users\ryan.allen\Documents\Visual Studio 2012\Projects\eManager\eManager.Web\bin\Antlr3.Runtime.dll
+C:\Users\ryan.allen\Documents\Visual Studio 2012\Projects\eManager\eManager.Web\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\ryan.allen\Documents\Visual Studio 2012\Projects\eManager\eManager.Web\bin\DotNetOpenAuth.Core.dll
+C:\Users\ryan.allen\Documents\Visual Studio 2012\Projects\eManager\eManager.Web\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\ryan.allen\Documents\Visual Studio 2012\Projects\eManager\eManager.Web\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\ryan.allen\Documents\Visual Studio 2012\Projects\eManager\eManager.Web\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\ryan.allen\Documents\Visual Studio 2012\Projects\eManager\eManager.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\ryan.allen\Documents\Visual Studio 2012\Projects\eManager\eManager.Web\bin\eManager.Domain.dll
+C:\Users\ryan.allen\Documents\Visual Studio 2012\Projects\eManager\eManager.Web\bin\EntityFramework.dll
+C:\Users\ryan.allen\Documents\Visual Studio 2012\Projects\eManager\eManager.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ryan.allen\Documents\Visual Studio 2012\Projects\eManager\eManager.Web\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\ryan.allen\Documents\Visual Studio 2012\Projects\eManager\eManager.Web\bin\Newtonsoft.Json.dll
+C:\Users\ryan.allen\Documents\Visual Studio 2012\Projects\eManager\eManager.Web\bin\StructureMap.dll
+C:\Users\ryan.allen\Documents\Visual Studio 2012\Projects\eManager\eManager.Web\bin\System.Net.Http.dll
+C:\Users\ryan.allen\Documents\Visual Studio 2012\Projects\eManager\eManager.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\ryan.allen\Documents\Visual Studio 2012\Projects\eManager\eManager.Web\bin\System.Net.Http.WebRequest.dll
+C:\Users\ryan.allen\Documents\Visual Studio 2012\Projects\eManager\eManager.Web\bin\System.Web.Helpers.dll
+C:\Users\ryan.allen\Documents\Visual Studio 2012\Projects\eManager\eManager.Web\bin\System.Web.Http.dll
+C:\Users\ryan.allen\Documents\Visual Studio 2012\Projects\eManager\eManager.Web\bin\System.Web.Http.WebHost.dll
+C:\Users\ryan.allen\Documents\Visual Studio 2012\Projects\eManager\eManager.Web\bin\System.Web.Mvc.dll
+C:\Users\ryan.allen\Documents\Visual Studio 2012\Projects\eManager\eManager.Web\bin\System.Web.Optimization.dll
+C:\Users\ryan.allen\Documents\Visual Studio 2012\Projects\eManager\eManager.Web\bin\System.Web.Razor.dll
+C:\Users\ryan.allen\Documents\Visual Studio 2012\Projects\eManager\eManager.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ryan.allen\Documents\Visual Studio 2012\Projects\eManager\eManager.Web\bin\System.Web.WebPages.dll
+C:\Users\ryan.allen\Documents\Visual Studio 2012\Projects\eManager\eManager.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\ryan.allen\Documents\Visual Studio 2012\Projects\eManager\eManager.Web\bin\WebActivator.dll
+C:\Users\ryan.allen\Documents\Visual Studio 2012\Projects\eManager\eManager.Web\bin\WebGrease.dll
+C:\Users\ryan.allen\Documents\Visual Studio 2012\Projects\eManager\eManager.Web\bin\WebMatrix.Data.dll
+C:\Users\ryan.allen\Documents\Visual Studio 2012\Projects\eManager\eManager.Web\bin\WebMatrix.WebData.dll
+C:\Users\ryan.allen\Documents\Visual Studio 2012\Projects\eManager\eManager.Web\bin\Org.Mentalis.Security.Cryptography.dll
+C:\Users\ryan.allen\Documents\Visual Studio 2012\Projects\eManager\eManager.Web\bin\Mono.Math.dll
+C:\Users\ryan.allen\Documents\Visual Studio 2012\Projects\eManager\eManager.Web\bin\eManager.Domain.pdb
+C:\Users\ryan.allen\Documents\Visual Studio 2012\Projects\eManager\eManager.Web\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\ryan.allen\Documents\Visual Studio 2012\Projects\eManager\eManager.Web\bin\DotNetOpenAuth.Core.xml
+C:\Users\ryan.allen\Documents\Visual Studio 2012\Projects\eManager\eManager.Web\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\ryan.allen\Documents\Visual Studio 2012\Projects\eManager\eManager.Web\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\ryan.allen\Documents\Visual Studio 2012\Projects\eManager\eManager.Web\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\ryan.allen\Documents\Visual Studio 2012\Projects\eManager\eManager.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\ryan.allen\Documents\Visual Studio 2012\Projects\eManager\eManager.Web\bin\Newtonsoft.Json.xml
+C:\Users\ryan.allen\Documents\Visual Studio 2012\Projects\eManager\eManager.Web\bin\StructureMap.pdb
+C:\Users\ryan.allen\Documents\Visual Studio 2012\Projects\eManager\eManager.Web\bin\StructureMap.xml
+C:\Users\ryan.allen\Documents\Visual Studio 2012\Projects\eManager\eManager.Web\bin\System.Web.Razor.xml
+C:\Users\ryan.allen\Documents\Visual Studio 2012\Projects\eManager\eManager.Web\bin\EntityFramework.xml
+C:\Users\ryan.allen\Documents\Visual Studio 2012\Projects\eManager\eManager.Web\bin\System.Net.Http.xml
+C:\Users\ryan.allen\Documents\Visual Studio 2012\Projects\eManager\eManager.Web\bin\System.Net.Http.Formatting.xml
+C:\Users\ryan.allen\Documents\Visual Studio 2012\Projects\eManager\eManager.Web\bin\System.Net.Http.WebRequest.xml
+C:\Users\ryan.allen\Documents\Visual Studio 2012\Projects\eManager\eManager.Web\bin\System.Web.Helpers.xml
+C:\Users\ryan.allen\Documents\Visual Studio 2012\Projects\eManager\eManager.Web\bin\System.Web.Http.xml
+C:\Users\ryan.allen\Documents\Visual Studio 2012\Projects\eManager\eManager.Web\bin\System.Web.Http.WebHost.xml
+C:\Users\ryan.allen\Documents\Visual Studio 2012\Projects\eManager\eManager.Web\bin\System.Web.Mvc.xml
+C:\Users\ryan.allen\Documents\Visual Studio 2012\Projects\eManager\eManager.Web\bin\System.Web.WebPages.xml
+C:\Users\ryan.allen\Documents\Visual Studio 2012\Projects\eManager\eManager.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ryan.allen\Documents\Visual Studio 2012\Projects\eManager\eManager.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\ryan.allen\Documents\Visual Studio 2012\Projects\eManager\eManager.Web\bin\WebMatrix.Data.xml
+C:\Users\ryan.allen\Documents\Visual Studio 2012\Projects\eManager\eManager.Web\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\ryan.allen\Documents\Visual Studio 2012\Projects\eManager\eManager.Web\bin\WebMatrix.WebData.xml
+C:\Users\ryan.allen\Documents\Visual Studio 2012\Projects\eManager\eManager.Web\bin\Org.Mentalis.Security.Cryptography.xml
+C:\Users\ryan.allen\Documents\Visual Studio 2012\Projects\eManager\eManager.Web\bin\Mono.Math.xml
+C:\Users\ryan.allen\Documents\Visual Studio 2012\Projects\eManager\eManager.Web\obj\Debug\eManager.Web.csprojResolveAssemblyReference.cache
+C:\Users\ryan.allen\Documents\Visual Studio 2012\Projects\eManager\eManager.Web\obj\Debug\eManager.Web.dll
+C:\Users\ryan.allen\Documents\Visual Studio 2012\Projects\eManager\eManager.Web\obj\Debug\eManager.Web.pdb

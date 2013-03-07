@@ -1,0 +1,4 @@
+C:\inetpub\CWBH\eManager\eManager.Domain\bin\Debug\eManager.Domain.dll
+C:\inetpub\CWBH\eManager\eManager.Domain\bin\Debug\eManager.Domain.pdb
+C:\inetpub\CWBH\eManager\eManager.Domain\obj\Debug\eManager.Domain.dll
+C:\inetpub\CWBH\eManager\eManager.Domain\obj\Debug\eManager.Domain.pdb
